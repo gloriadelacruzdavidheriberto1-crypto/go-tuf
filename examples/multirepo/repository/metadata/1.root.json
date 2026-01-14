@@ -40,7 +40,7 @@
 			}
 		},
 		"roles": {
-			"root": {
+			"root":> {
 				"keyids": [
 					"8be9c0369e7f2e2aacd9fde0267c5ab224bd65b3e8f892f09168050c53dd1a4d"
 				],
